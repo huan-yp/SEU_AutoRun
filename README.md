@@ -1,4 +1,4 @@
-# 交我润 (SJTU_AutoRun)
+# 开车润 (SEU_AutoRun)
 
 ## 目录
 
